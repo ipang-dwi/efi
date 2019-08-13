@@ -8,7 +8,10 @@ My EFI partition backup for Asus X45C, you can also use this as reference for ma
 - MX Linux 18.3 Continuum
 - MacOSX Mojave 10.14.6
 
-Installed bootloader : Clover EFI v2.5k r5033
+Installed bootloader : 
+- Bootloader : Clover EFI 
+- version : v2.5k r5033
+- Theme : Catalina by Badruzeus
 
 Device Specification :
 - Brand : Asus
