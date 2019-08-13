@@ -1,6 +1,8 @@
 # efi
 Multi boot EFI for Asus X45C, covering Windows, Linux and MacOSX - www.firstplato.com
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi/master/img/c-mx.png"/>
+
 My EFI partition backup for Asus X45C, you can also use this as reference for making multi boot OS'es. In my Asus X45C, I have 3 installed OS :
 - Windows 10 Pro x64 1809
 - MX Linux 18.3 Continuum
